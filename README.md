@@ -250,4 +250,4 @@ https://github.com/parlhad/Uber_Power-BI_Project
 
 ## 📎 Note
 
-This project is created for **learning, portfolio, and demonstration purposes** using a sample dataset.
+This project is created for **learning, portfolio, and demonstration purposes** using a sample dataset OF 1,50,000 rows and more that 10 Features
