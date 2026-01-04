@@ -4,8 +4,10 @@ An end-to-end **Power BI analytics dashboard** designed to analyze Uber ride dat
 This project focuses on **business-driven analytics**, data modeling, DAX calculations, and professional dashboard design.
 
 ---
-## 🚀 **Live Dashboard:**  
-[Click here to view the Power BI report]([https://app.powerbi.com/view?r=eyJrIjoiOTNiNjg4MTQtY2VmOC00YmNiLTk3YmYtODYzN2ViN2YxMDM4IiwidCI6ImY5YTQzODQwLWY3OGUtNDE3Yy05ZDgwLTg5NTJhMmJhN2Y0YiJ9](https://app.fabric.microsoft.com/view?r=eyJrIjoiMWM3NDhiOWItNWZhNi00ODc2LTg1MjQtYmM2Y2Y5ODM1MTJkIiwidCI6ImY5YTQzODQwLWY3OGUtNDE3Yy05ZDgwLTg5NTJhMmJhN2Y0YiJ9))
+
+## 🚀 Live Dashboard  
+[Click here to view the Power BI report](https://app.fabric.microsoft.com/view?r=eyJrIjoiMWM3NDhiOWItNWZhNi00ODc2LTg1MjQtYmM2Y2Y5ODM1MTJkIiwidCI6ImY5YTQzODQwLWY3OGUtNDE3Yy05ZDgwLTg5NTJhMmJhN2Y0YiJ9)
+
 
 ---
 
