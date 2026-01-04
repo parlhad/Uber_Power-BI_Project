@@ -73,6 +73,7 @@ Interactive navigation buttons and filters allow seamless movement between pages
 - Makes the dashboard portfolio and stakeholder-ready
 
 ---
+<img src="Home.png" alt="Home" width="1000"/>
 
 ### 2️⃣ Overview Page
 
@@ -98,7 +99,7 @@ Provide a high-level snapshot of Uber’s operational and financial performance.
 - Identifies overall growth, decline, or inefficiencies
 
 ---
-
+<img src="Overview.png" alt="Overview" width="1000"/>
 ### 3️⃣ Vehicle Page
 
 **Business Requirement**
@@ -121,7 +122,7 @@ Analyze performance at the vehicle level to optimize fleet usage.
 - Helps improve pricing and incentive strategies
 
 ---
-
+<img src="Vehicle.png" alt="Vehicle" width="1000"/>
 ### 4️⃣ Revenue Page
 
 **Business Requirement**
@@ -145,7 +146,7 @@ Provide detailed financial insights and identify revenue risks.
 - Supports financial planning and strategy
 
 ---
-
+<img src="Revenue.png" alt="Revenue" width="1000"/>
 ### 5️⃣ Customer Page
 
 **Business Requirement**
@@ -174,7 +175,7 @@ Understand customer behavior, loyalty, and cancellation impact.
 - Enhances customer experience
 
 ---
-
+<img src="Customer.png" alt="Customer" width="1000"/>
 ### 6️⃣ Location Page
 
 **Business Requirement**
@@ -204,7 +205,7 @@ Analyze geographic and time-based demand patterns.
 - KPI Design & Dashboard UX Principles
 
 ---
-
+<img src="Location.png" alt="Location" width="1000"/>
 ## 📈 Business Impact
 
 This dashboard enables Uber stakeholders to:
