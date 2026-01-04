@@ -74,7 +74,9 @@ Interactive navigation buttons and filters allow seamless movement between pages
 
 ---
 <img src="Home.png" alt="Home" width="1000"/>
+
 ---
+
 ### 2️⃣ Overview Page
 
 **Business Requirement**
@@ -100,7 +102,9 @@ Provide a high-level snapshot of Uber’s operational and financial performance.
 
 ---
 <img src="Overview.png" alt="Overview" width="1000"/>
+
 ---
+
 ### 3️⃣ Vehicle Page
 
 **Business Requirement**
@@ -150,7 +154,9 @@ Provide detailed financial insights and identify revenue risks.
 
 ---
 <img src="Revenue.png" alt="Revenue" width="1000"/>
+
 ---
+
 ### 5️⃣ Customer Page
 
 **Business Requirement**
@@ -180,7 +186,9 @@ Understand customer behavior, loyalty, and cancellation impact.
 
 ---
 <img src="Customer.png" alt="Customer" width="1000"/>
+
 ---
+
 ### 6️⃣ Location Page
 
 **Business Requirement**
