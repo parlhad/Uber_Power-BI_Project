@@ -224,7 +224,7 @@ Analyze geographic and time-based demand patterns.
 - Time Intelligence
 - KPI Design & Dashboard UX Principles
 
----
+
 
 ## 📈 Business Impact
 
