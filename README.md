@@ -225,7 +225,7 @@ Analyze geographic and time-based demand patterns.
 - KPI Design & Dashboard UX Principles
 
 ---
-<img src="Location.png" alt="Location" width="1000"/>
+
 ---
 ## 📈 Business Impact
 
