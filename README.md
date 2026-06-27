@@ -215,6 +215,8 @@ Analyze geographic and time-based demand patterns.
 ---
 <img src="Location.png" alt="Location" width="1000"/>
 ---
+
+
 ## 🛠 Tools & Technologies Used
 
 - **Microsoft Power BI**
