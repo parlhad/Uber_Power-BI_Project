@@ -226,7 +226,6 @@ Analyze geographic and time-based demand patterns.
 
 ---
 
----
 ## 📈 Business Impact
 
 This dashboard enables Uber stakeholders to:
